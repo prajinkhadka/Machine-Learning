@@ -1,6 +1,16 @@
 # Machine-Learning
 
-## 1. [Supervised Machine Learning Algorithm - Scikit Learn and From Scratch (Python)](https://github.com/prajinkhadka/Machine-Learning/tree/master/Supervised%20Algorithms)
+## 1. [Supervised Machine Learning Algorithm(Classification) - Scikit Learn and From Scratch (Python)](https://github.com/prajinkhadka/Machine-Learning/tree/master/Supervised%20Algorithms)
+
+   A. [Percepron Learning](https://github.com/prajinkhadka/Machine-Learning/tree/master/Supervised%20Algorithms/percepron%20Algorithm) 
+   
+   B. [Logistic Regression](https://github.com/prajinkhadka/Machine-Learning/tree/master/Supervised%20Algorithms/Logistic%20Regression)
+   
+   C. [KNN](https://github.com/prajinkhadka/Machine-Learning/tree/master/Supervised%20Algorithms/K%20Nearest%20neighbor)
+   
+   D. [Decision Trees](https://github.com/prajinkhadka/Machine-Learning/tree/master/Supervised%20Algorithms/Decision%20Trees)
+   
+   E. [SVM](https://github.com/prajinkhadka/Machine-Learning/tree/master/Supervised%20Algorithms/Support%20Vector%20machines)
 
 ## 2. Data PreProcessing and Feature Selection 
 

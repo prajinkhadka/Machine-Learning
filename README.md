@@ -1,6 +1,6 @@
 # Machine-Learning
 
-## 1. [Supervised Machine Learning Algorithm(Classification) - Scikit Learn and From Scratch (Python)](https://github.com/prajinkhadka/Machine-Learning/tree/master/Supervised%20Algorithms)
+## 1. [Supervised Machine Learning Algorithm(Classification) - Scikit Learn and From Scratch (Python)]
 
    A. [Percepron Learning](https://github.com/prajinkhadka/Machine-Learning/tree/master/Supervised%20Algorithms/percepron%20Algorithm) 
    

@@ -36,3 +36,12 @@
    
    D. [Grid Search and Accuracy Metrics](https://github.com/prajinkhadka/Machine-Learning/blob/master/Model%20Evaluation%20and%20Hyper%20Parameter%20Tuning/Grid%20Search%20and%20Accuracy%20Metrics.ipynb)
    
+   
+## 5. Regession Analysis
+
+   A.[Simple Linear Regression (Scratch + Scikit Learn), Multiple LR, Error Metrics, Regularized Regression](https://github.com/prajinkhadka/Machine-Learning/blob/master/Regression%20Analysis/Simple%20Linear%20Regression(Scratch%20%2B%20Scikit%20Learn%20)%2C%20Multiple%20Linear%20Regression%20%2C%20Error%20Metrics%2C%20Regularization.ipynb) 
+   
+   B. [Polynomial Regression](https://github.com/prajinkhadka/Machine-Learning/blob/master/Regression%20Analysis/Polynomial%20Regression.ipynb)
+   
+   C. [Random Forest Regression for Non Linear data](https://github.com/prajinkhadka/Machine-Learning/blob/master/Regression%20Analysis/Non%20Linear%20RelationShip%20with%20random%20Forest.ipynb)
+   
